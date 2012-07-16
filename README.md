@@ -1,0 +1,4 @@
+railsbridge-stickerbot
+======================
+
+Stickerbot!
